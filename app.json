@@ -1,0 +1,10 @@
+{
+  "name": "myCosts",
+  "displayName": "myCosts"
+,
+"rnpm": {
+  "assets": [
+    "./assets/fonts/"
+  ]
+}
+}
